@@ -4,5 +4,5 @@ def sumar(a, b):
 def restar(a,b):
     return a-b
 
-print(sumar(3,3)) # 6
-print(restar(6,3))
+print("El resultado de restar 6 - 3 es: ", restar(6,3))
+print("El resultado de sumar 3 + 3 es: ", sumar(3,3)) # 6
